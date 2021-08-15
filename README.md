@@ -1,3 +1,3 @@
 # HTTP Headers Checker
 ## How To Run
-    ### python3 HHC-WEB.py
+     python3 HHC-WEB.py
