@@ -6,4 +6,4 @@
 ## How To Run
      python3 HHC-WEB.py
 ## For Windows :
-   ### You Can Download .exe File In Release
+   ### You Can Download .exe File In Releases
